@@ -1,4 +1,4 @@
-# 사통백이 전공 면접 repository
+# 사통백이 전공 / 채용 /  면접 repository
 
 ![author](https://img.shields.io/badge/author-thkwon-pink)
 ![contributor](https://img.shields.io/badge/contributor-0-blue)

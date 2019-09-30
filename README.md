@@ -31,6 +31,23 @@
 
 ### 면접 예상 문제
 
+* OS - [정답보기](/questions_for_interviews/os.md)
+  * thread와 process의 차이는 무엇인가?
+  * 스케쥴 알고리즘의 FCFS / SJF / Priority / RR에 대해서 간략히 설명하시오.
+  * 버퍼링과 스풀링의 차이점은 무엇인가?
+* 네트워크 - [정답보기](/questions_for_interviews/network.md)
+  * Three - way handshake(연결 성립)에 대해서 설명하시오.
+  * Four-way handshake(연결 해제)에 대해서 설명하시오.
+  * TCP의 flow control에 대해서 설명하시오. 
+* 자료구조 & 알고리즘 - [정답보기](/questions_for_interviews/ds.md)
+  * BFS와 DFS의 동작 방식을 설명하고, 큐와 스택이 각각 어떻게 쓰이는지 설명해라.
+  * 인접리스트와 인접행렬의 각각 장단점을 말하여라.
+  * BST에 대해서 설명과 특징을 말하고, 어떤 연산이 가능한지 말하여라.
+* DB - [정답보기](/questions_for_interviews/db.md)
+  * 인덱스는 무엇이고, 사용이유는 무엇인가? 장단점 까지 말해보아라.
+  * B+ 트리는 어떤 특성을 가지고, 인덱스에 어떻게 사용되는가?
+  * 클러스터 인덱스, 논 클러스터 인덱스의 각각의 특징과 차이점은 무엇인가?
+
 ### 알고리즘 꿀팁
 
 ### 전공 자료
